@@ -1,0 +1,9 @@
+{
+	"name": "waigisteve-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a6a72567-8ac8-4d2e-82f0-786dddb8d8e3",
+		"tenantId": "73a361ea-3397-4e00-83ef-8f59c04099ee"
+	}
+}
